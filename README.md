@@ -30,14 +30,12 @@
    <img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=222222"/>
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff"/>
 </div>
-<br>
+
 
 
 
 #### Here are some of my most recent projects 
 
-<div>
-  </dv>
 https://fylo-by-perscey007.netlify.app/
 
 https://blogr-by-perscey007.netlify.app/
