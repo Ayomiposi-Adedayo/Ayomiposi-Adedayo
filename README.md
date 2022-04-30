@@ -3,7 +3,7 @@
 ### :man_technologist: About Me
 
 
-- 🎓 &nbsp; I,m a self taught developer, learned from Freecodecamp, The Odin Project and various Youtube sources which provided me with a lot of outstanding and technical web development skills.
+- 🎓 &nbsp; I'm a self taught developer, learned from Freecodecamp, The Odin Project and various Youtube sources which provided me with a lot of outstanding and technical web development skills.
 - 🌱 &nbsp; I'm working towards becoming a successful **Full-Stack Web Developer**.
 - 💼 &nbsp; I consider myself equipped with **basic-intermediate**  web development skills(HTML, CSS & SCSS), but I know I **Still** need to learn a lot more.
 - 🤔 &nbsp; I always like to learn and explore everything i can about **Web Development** technologies.
