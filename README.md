@@ -43,6 +43,10 @@ https://fylo-by-perscey007.netlify.app/
 
 https://blogr-by-perscey007.netlify.app/
 
+https://net-ninja-book-by-perscey007.netlify.app/
+
+https://sunnyside-agency-by-perscey007.netlify.app/
+
 https://classic-rides-by-perscey007.netlify.app/
 
 
