@@ -39,6 +39,8 @@
 
 #### Here are some of my most recent projects 
 
+https://perscey007-portfolio.netlify.app/
+
 https://fylo-by-perscey007.netlify.app/
 
 https://blogr-by-perscey007.netlify.app/
