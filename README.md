@@ -35,7 +35,7 @@
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perscey007)](https://github.com/Perscey007/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perscey007&show_icons=true&theme=radical)](https://github.com/Perscey007/github-readme-stats)
 
 
 Here are some of my most recent projects 
