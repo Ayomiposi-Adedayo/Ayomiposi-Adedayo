@@ -35,9 +35,10 @@
 </div>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perscey007)](https://github.com/Perscey007/github-readme-stats)
 
 
-#### Here are some of my most recent projects 
+Here are some of my most recent projects 
 
 https://perscey007-portfolio.netlify.app/
 
