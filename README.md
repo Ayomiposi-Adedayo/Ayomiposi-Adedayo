@@ -1,3 +1,11 @@
+<a href="https://profile.codersrank.io/user/Perscey007" target="_blank">
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Perscey007&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:5px"
+/>
+</a>
+
+
+
 ## Hi There. I'm Ayomiposi ADEDAYO
 
 ### :man_technologist: About Me
@@ -10,6 +18,28 @@
 
 
 ---
+
+
+## Technologies and Tools 🚀
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+<!--![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Netlify-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Heroku-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a) 
+<!-- ![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a) 
+ -->
+ <br>
 
 ### :chart_with_downwards_trend: Roadmap
 
@@ -42,6 +72,8 @@
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perscey007&show_icons=true&theme=tokyonight)](https://github.com/Perscey007/github-readme-stats)
+
+<hr>
 
 
 <hr>
