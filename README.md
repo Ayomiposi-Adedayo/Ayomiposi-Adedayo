@@ -1,6 +1,6 @@
 <a href="https://profile.codersrank.io/user/Perscey007" target="_blank">
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Perscey007&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:0px;--margin:auto 0;"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Perscey007&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:0px;"
 />
 </a>
 
