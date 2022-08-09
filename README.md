@@ -62,11 +62,11 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perscey007&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/Ayomiposi-Adedayo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomiposi-Adedayo&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/Ayomiposi-Adedayo/github-readme-stats)
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perscey007&show_icons=true&theme=tokyonight)](https://github.com/Ayomiposi-Adedayo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayomiposi-Adedayo&show_icons=true&theme=tokyonight)](https://github.com/Ayomiposi-Adedayo/github-readme-stats)
 
 <hr>
 
