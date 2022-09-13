@@ -72,20 +72,5 @@
 
 
 <hr>
-
-Here are some of my most recent projects 
-
-https://perscey007-portfolio.netlify.app/
-
-https://fylo-by-perscey007.netlify.app/
-
-https://blogr-by-perscey007.netlify.app/
-
-https://net-ninja-book-by-perscey007.netlify.app/
-
-https://sunnyside-agency-by-perscey007.netlify.app/
-
-https://classic-rides-by-perscey007.netlify.app/
-
-<button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; /* Dark grey */ padding: 15px 32px">Example button</button>
-
+Portfolio website
+https://ayomiposi-portfolio.netlify.app/
