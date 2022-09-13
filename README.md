@@ -87,4 +87,5 @@ https://sunnyside-agency-by-perscey007.netlify.app/
 
 https://classic-rides-by-perscey007.netlify.app/
 
+<button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; /* Dark grey */ padding: 15px 32px">Example button</button>
 
